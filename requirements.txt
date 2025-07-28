@@ -5,3 +5,4 @@ langchain==0.3.25
 faiss-cpu==1.11.0
 PyPDF2==3.0.1
 sentence-transformers
+openai
