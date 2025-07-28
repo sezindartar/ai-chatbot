@@ -1,7 +1,8 @@
 streamlit==1.38.0
 python-dotenv==1.0.1
-# langchain-openai  # Bu satırı kaldırın veya yorum satırı yapın
-langchain==0.3.25
+langchain-openai           # BU SATIRI TEKRAR EKLEYİN!
+langchain>=0.1.0           # langchain'i güncel bir sürüme sabitleyin (örneğin 0.1.x veya 0.2.x)
+                           # Veya sadece 'langchain' yazarak en son uyumlu sürümü çektirin
 faiss-cpu==1.11.0
 PyPDF2==3.0.1
 sentence-transformers
